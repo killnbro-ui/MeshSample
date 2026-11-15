@@ -7,7 +7,7 @@
     "MS-C36B-AE2F-14F1-B630": {
       "user": "Admin (best vibe coder rishra)",
       "license_key": "KEY-FF8D-E112-7B58-BD69",
-      "status": "active",
+      "status": "revoked",
       "issued_at": "2026-11-16 03:06:58"
     },
     "2": {
@@ -18,9 +18,11 @@
     }
   },
   "revoked_hwids": [
-    "4"
+    "4",
+    "MS-C36B-AE2F-14F1-B630"
   ],
   "revoked_keys": [
-    "KEY-7695-B55E-C833-9017"
+    "KEY-7695-B55E-C833-9017",
+    "KEY-FF8D-E112-7B58-BD69"
   ]
 }
