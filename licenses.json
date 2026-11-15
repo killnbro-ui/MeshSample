@@ -7,7 +7,7 @@
     "MS-C36B-AE2F-14F1-B630": {
       "user": "Admin",
       "license_key": "KEY-FF8D-E112-7B58-BD69",
-      "status": "revoked",
+      "status": "active",
       "issued_at": "2026-11-16 03:34:40"
     },
     "2": {
@@ -19,12 +19,10 @@
   },
   "revoked_hwids": [
     "XXX",
-    "2",
-    "MS-C36B-AE2F-14F1-B630"
+    "2"
   ],
   "revoked_keys": [
     "KEY-E614-EAA0-ED24-0AE6",
-    "KEY-3FAC-D4EC-03C6-738E",
-    "KEY-FF8D-E112-7B58-BD69"
+    "KEY-3FAC-D4EC-03C6-738E"
   ]
 }
