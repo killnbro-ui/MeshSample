@@ -3,7 +3,14 @@
   "version": "8.4",
   "kill_switch": false,
   "message": "Mesh Sampler license verification active.",
-  "allowed_users": {},
+  "allowed_users": {
+    "MS-C36B-AE2F-14F1-B630": {
+      "user": "Admin (best vibe coder rishra)",
+      "license_key": "KEY-FF8D-E112-7B58-BD69",
+      "status": "active",
+      "issued_at": "2026-11-16 03:06:58"
+    }
+  },
   "revoked_hwids": [],
   "revoked_keys": []
 }

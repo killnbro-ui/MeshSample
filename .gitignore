@@ -6,3 +6,6 @@ MeshSampler_Protected_Source.py
 MeshSampler_Unencrypted_Backup.py
 *.zip
 __pycache__/
+
+*.exe
+MeshSampler_Encrypted.py
