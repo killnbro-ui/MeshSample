@@ -9,8 +9,18 @@
       "license_key": "KEY-FF8D-E112-7B58-BD69",
       "status": "active",
       "issued_at": "2026-11-16 03:06:58"
+    },
+    "2": {
+      "user": "xxx",
+      "license_key": "KEY-3FAC-D4EC-03C6-738E",
+      "status": "active",
+      "issued_at": "2026-11-16 03:23:37"
     }
   },
-  "revoked_hwids": [],
-  "revoked_keys": []
+  "revoked_hwids": [
+    "4"
+  ],
+  "revoked_keys": [
+    "KEY-7695-B55E-C833-9017"
+  ]
 }
