@@ -1,0 +1,8 @@
+Admin_License_Manager.py
+Build_Encrypted_Addon.py
+Setup_GitHub_License_Server.ps1
+Setup_GitHub_License_Server.py
+MeshSampler_Protected_Source.py
+MeshSampler_Unencrypted_Backup.py
+*.zip
+__pycache__/

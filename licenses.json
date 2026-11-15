@@ -1,0 +1,9 @@
+{
+  "addon": "Mesh Sampler",
+  "version": "8.4",
+  "kill_switch": false,
+  "message": "Mesh Sampler license verification active.",
+  "allowed_users": {},
+  "revoked_hwids": [],
+  "revoked_keys": []
+}
