@@ -2,7 +2,7 @@
   "addon": "Mesh Sampler",
   "version": "8.4",
   "kill_switch": false,
-  "message": "Mesh Sampler license verification active.",
+  "message": "Mesh Sampler license check active - rev check",
   "allowed_users": {
     "MS-C36B-AE2F-14F1-B630": {
       "user": "Admin",
