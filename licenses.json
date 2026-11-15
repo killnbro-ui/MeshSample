@@ -18,12 +18,9 @@
     }
   },
   "revoked_hwids": [
-    "4",
     "XXX"
   ],
   "revoked_keys": [
-    "KEY-7695-B55E-C833-9017",
-    "KEY-FF8D-E112-7B58-BD69",
     "KEY-E614-EAA0-ED24-0AE6"
   ]
 }
